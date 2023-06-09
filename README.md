@@ -17,14 +17,32 @@ The Telco customer churn data contains information about a fictional company tha
 
 
 Source: https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
-### Files with data: 
-* Telco_customer_churn_demographics.xlsx
-* Telco_customer_churn_status.xlsx
-* Telco_customer_churn_services.xlsx
+### Process:
+* The data-set was created by merging several files and selecting columns.
+* Outliers and missing values check.
+* Exploratory Data Analysis.
+* Categorical Values Encoding.
+* Feature Engineering.
+* Customer Segments Analysis.
+* Models trained and evaluated:
+  * Logistic Regression,
+  * Decision Tree Model,
+  * Random Forest,
+  * Boosted Trees:
+    * Gradient Boosting,
+    * XGBoost.
+  * Validation with the StratifiedKFold.
+  * Features Importance.
+* Conclusions.
 
 ### Important!!! 
 All files should be located in the same folder.
 We recommend you to download the whole folder instead of separate files. Don't change names of folders and files.
+
+### Files with data: 
+* Telco_customer_churn_demographics.xlsx
+* Telco_customer_churn_status.xlsx
+* Telco_customer_churn_services.xlsx
 
 ### Libraries: 
 * matplotlib==3.7.1
