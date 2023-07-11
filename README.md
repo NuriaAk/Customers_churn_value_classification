@@ -1,4 +1,6 @@
 # Customers Churn Value classification project
+Try the [Churn prediction app here]((https://churnprediction.streamlit.app))!
+
 This repo contains a python notebook file that can be opened in Jupiter Notebook or for example in Google Collaboratory.
 ### What is Churn?
 Churn is the measure of how many customers stop using a product.
