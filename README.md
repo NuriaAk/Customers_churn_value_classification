@@ -1,5 +1,5 @@
 # Customers Churn Value classification project
-Try the [Churn prediction app here](https://churnprediction.streamlit.app)!
+Try the [Churn prediction app here](https://churn-prediction-telco-all.streamlit.app)!
 
 This repo contains a python notebook file that can be opened in Jupiter Notebook or for example in Google Collaboratory.
 ### What is Churn?
